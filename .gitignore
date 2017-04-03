@@ -3,7 +3,6 @@
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
-/build
-/app/build
-/app/app-release.apk
-/app/app-autologin.apk
+build
+app-release.apk
+autologin-release.apk
