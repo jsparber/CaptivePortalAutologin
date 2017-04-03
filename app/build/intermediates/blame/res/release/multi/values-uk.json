@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "/home/developer/AndroidStudioProjects/CaptivePortalAutologin/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-uk/values-uk.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 89,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "/home/developer/AndroidStudioProjects/CaptivePortalAutologin/app/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 477,
+                        "endColumn": 89,
+                        "endOffset": 562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 112,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "/home/developer/AndroidStudioProjects/CaptivePortalAutologin/app/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 364,
+                        "endColumn": 112,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endColumn": 107,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "/home/developer/AndroidStudioProjects/CaptivePortalAutologin/app/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 107,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 85,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "/home/developer/AndroidStudioProjects/CaptivePortalAutologin/app/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 85,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 114,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "/home/developer/AndroidStudioProjects/CaptivePortalAutologin/app/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 114,
+                        "endOffset": 963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 139,
+                    "endOffset": 702
+                },
+                "from": {
+                    "file": "/home/developer/AndroidStudioProjects/CaptivePortalAutologin/app/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 139,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 707,
+                    "endColumn": 145,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "/home/developer/AndroidStudioProjects/CaptivePortalAutologin/app/src/main/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 567,
+                        "endColumn": 145,
+                        "endOffset": 708
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="917235635415966620" name="action_bar_label">"Σύνδεση στο δίκτυο"</string>
+    <string msgid="4577366536956516683" name="action_do_not_use_network">"Να μη χρησιμοποιείται αυτό το δίκτυο"</string>
+    <string msgid="6076184727448466030" name="action_use_network">"Χρήση αυτού του δικτύου ως έχει"</string>
+    <string msgid="5934709770924185752" name="app_name">"CaptivePortalLogin"</string>
+    <string msgid="6492718244923937110" name="ssl_error_continue">"Συνέχεια ούτως ή άλλως μέσω του προγράμματος περιήγησης"</string>
+    <string msgid="647898534624078900" name="ssl_error_example">"Για παράδειγμα, η σελίδα σύνδεσης ενδέχεται να μην ανήκει στον οργανισμό που εμφανίζεται."</string>
+    <string msgid="6653188881418638872" name="ssl_error_warning">"Παρουσιάζονται προβλήματα ασφάλειας στο δίκτυο στο οποίο προσπαθείτε να συνδεθείτε."</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="917235635415966620" name="action_bar_label">"નેટવર્ક પર સાઇન ઇન કરો"</string>
+    <string msgid="4577366536956516683" name="action_do_not_use_network">"આ નેટવર્કનો ઉપયોગ કરશો નહીં"</string>
+    <string msgid="6076184727448466030" name="action_use_network">"આ નેટવર્કનો જેમનો તેમ ઉપયોગ કરો"</string>
+    <string msgid="5934709770924185752" name="app_name">"CaptivePortalLogin"</string>
+    <string msgid="6492718244923937110" name="ssl_error_continue">"બ્રાઉઝર મારફતે કોઈપણ રીતે ચાલુ રાખો"</string>
+    <string msgid="647898534624078900" name="ssl_error_example">"ઉદાહરણ તરીકે, લોગિન પૃષ્ઠ દર્શાવેલ સંસ્થાનું હોઈ શકતું નથી."</string>
+    <string msgid="6653188881418638872" name="ssl_error_warning">"તમે જોડાવાનો પ્રયાસ કરી રહ્યાં છો તે નેટવર્કમાં સુરક્ષા સમસ્યાઓ છે."</string>
+</resources>

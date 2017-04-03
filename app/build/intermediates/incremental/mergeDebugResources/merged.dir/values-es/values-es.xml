@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="917235635415966620" name="action_bar_label">"Iniciar sesión en la red"</string>
+    <string msgid="4577366536956516683" name="action_do_not_use_network">"No utilizar esta red"</string>
+    <string msgid="6076184727448466030" name="action_use_network">"Utilizar esta red tal cual"</string>
+    <string msgid="5934709770924185752" name="app_name">"CaptivePortalLogin"</string>
+    <string msgid="6492718244923937110" name="ssl_error_continue">"Continuar de todos modos a través del navegador"</string>
+    <string msgid="647898534624078900" name="ssl_error_example">"Por ejemplo, es posible que la página de inicio de sesión no pertenezca a la organización mostrada."</string>
+    <string msgid="6653188881418638872" name="ssl_error_warning">"La red a la que intentas unirte tiene problemas de seguridad."</string>
+</resources>

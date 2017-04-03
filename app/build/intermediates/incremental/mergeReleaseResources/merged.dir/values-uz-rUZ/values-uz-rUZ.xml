@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="917235635415966620" name="action_bar_label">"Tarmoqqa kirish"</string>
+    <string msgid="4577366536956516683" name="action_do_not_use_network">"Ushbu tarmoqdan foydalanilmasin"</string>
+    <string msgid="6076184727448466030" name="action_use_network">"Ushbu tarmoqdan o‘z holicha foydalanilsin"</string>
+    <string msgid="5934709770924185752" name="app_name">"CaptivePortalLogin"</string>
+    <string msgid="6492718244923937110" name="ssl_error_continue">"E’tiborsiz qoldirilsin va brauzer ochilsin"</string>
+    <string msgid="647898534624078900" name="ssl_error_example">"Masalan, tizimga kirish sahifasi ko‘rsatilgan tashkilotga tegishli bo‘lmasligi mumkin."</string>
+    <string msgid="6653188881418638872" name="ssl_error_warning">"Siz ulanmoqchi bo‘lgan tarmoqda xavfsizlik bilan bog‘liq muammolar mavjud."</string>
+</resources>

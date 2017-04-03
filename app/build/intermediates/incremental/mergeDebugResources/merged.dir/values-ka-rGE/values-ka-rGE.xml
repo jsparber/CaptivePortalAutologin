@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="917235635415966620" name="action_bar_label">"ქსელში შესვლა"</string>
+    <string msgid="4577366536956516683" name="action_do_not_use_network">"ეს ქსელი არ გამოიყენო"</string>
+    <string msgid="6076184727448466030" name="action_use_network">"ამ ქსელის გამოყენება, როგორც არის"</string>
+    <string msgid="5934709770924185752" name="app_name">"CaptivePortalLogin"</string>
+    <string msgid="6492718244923937110" name="ssl_error_continue">"ბრაუზერში გაგრძელება"</string>
+    <string msgid="647898534624078900" name="ssl_error_example">"მაგალითად, სისტემაში შესვლის გვერდი შეიძლება არ ეკუთვნოდეს ნაჩვენებ ორგანიზაციას."</string>
+    <string msgid="6653188881418638872" name="ssl_error_warning">"ქსელს, რომელზედაც მიერთებას ცდილობთ, უსაფრთხოების პრობლემები აქვს."</string>
+</resources>

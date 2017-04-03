@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="917235635415966620" name="action_bar_label">"Identifikohu në rrjet"</string>
+    <string msgid="4577366536956516683" name="action_do_not_use_network">"Mos e përdor këtë rrjet"</string>
+    <string msgid="6076184727448466030" name="action_use_network">"Përdore këtë rrjet siç është"</string>
+    <string msgid="5934709770924185752" name="app_name">"CaptivePortalLogin"</string>
+    <string msgid="6492718244923937110" name="ssl_error_continue">"Vazhdo gjithsesi nëpërmjet shfletuesit"</string>
+    <string msgid="647898534624078900" name="ssl_error_example">"për shembull, faqja e identifikimit mund të mos i përkasë organizatës së shfaqur."</string>
+    <string msgid="6653188881418638872" name="ssl_error_warning">"Rrjeti në të cilin po përpiqesh të bashkohesh ka probleme sigurie."</string>
+</resources>

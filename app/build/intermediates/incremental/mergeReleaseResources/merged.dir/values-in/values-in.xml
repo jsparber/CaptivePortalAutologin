@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="917235635415966620" name="action_bar_label">"Masuk ke jaringan"</string>
+    <string msgid="4577366536956516683" name="action_do_not_use_network">"Jangan gunakan jaringan ini"</string>
+    <string msgid="6076184727448466030" name="action_use_network">"Gunakan jaringan ini sebagaimana adanya"</string>
+    <string msgid="5934709770924185752" name="app_name">"CaptivePortalLogin"</string>
+    <string msgid="6492718244923937110" name="ssl_error_continue">"Tetap lanjutkan melalui browser"</string>
+    <string msgid="647898534624078900" name="ssl_error_example">"Misalnya, laman masuk mungkin bukan milik organisasi yang ditampilkan."</string>
+    <string msgid="6653188881418638872" name="ssl_error_warning">"Jaringan yang ingin Anda masuki mengalami masalah keamanan."</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="917235635415966620" name="action_bar_label">"Prijavi me na mrežu"</string>
+    <string msgid="4577366536956516683" name="action_do_not_use_network">"Ne koristi ovu mrežu"</string>
+    <string msgid="6076184727448466030" name="action_use_network">"Koristi ovu mrežu takvu kakva je"</string>
+    <string msgid="5934709770924185752" name="app_name">"CaptivePortalLogin"</string>
+    <string msgid="6492718244923937110" name="ssl_error_continue">"Ipak nastavi preko pregledača"</string>
+    <string msgid="647898534624078900" name="ssl_error_example">"Na primer, stranica za prijavljivanje možda ne pripada prikazanoj organizaciji."</string>
+    <string msgid="6653188881418638872" name="ssl_error_warning">"Mreža kojoj pokušavate da se pridružite ima bezbednosnih problema."</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="917235635415966620" name="action_bar_label">"Sign in to network"</string>
+    <string msgid="4577366536956516683" name="action_do_not_use_network">"Do not use this network"</string>
+    <string msgid="6076184727448466030" name="action_use_network">"Use this network as is"</string>
+    <string msgid="5934709770924185752" name="app_name">"CaptivePortalLogin"</string>
+    <string msgid="6492718244923937110" name="ssl_error_continue">"Continue anyway via browser"</string>
+    <string msgid="647898534624078900" name="ssl_error_example">"For example, the login page might not belong to the organisation shown."</string>
+    <string msgid="6653188881418638872" name="ssl_error_warning">"The network that you’re trying to join has security issues."</string>
+</resources>

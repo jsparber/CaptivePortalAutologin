@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="917235635415966620" name="action_bar_label">"നെറ്റ്‌വർക്കിൽ സൈൻ ഇൻ ചെയ്യുക"</string>
+    <string msgid="4577366536956516683" name="action_do_not_use_network">"ഈ നെറ്റ്‌വർക്ക് ഉപയോഗിക്കരുത്"</string>
+    <string msgid="6076184727448466030" name="action_use_network">"ഈ നെറ്റ്‌വർക്ക് മാറ്റമൊന്നും വരുത്താതെ ഉപയോഗിക്കുക"</string>
+    <string msgid="5934709770924185752" name="app_name">"CaptivePortalLogin"</string>
+    <string msgid="6492718244923937110" name="ssl_error_continue">"എന്തായാലും ബ്രൗസർ വഴി തുടരുക"</string>
+    <string msgid="647898534624078900" name="ssl_error_example">"ഉദാഹരണത്തിന്, കാണിച്ചിരിക്കുന്ന ഓർഗനൈസേഷന്റേതായിരിക്കില്ല ലോഗിൻ പേജ്."</string>
+    <string msgid="6653188881418638872" name="ssl_error_warning">"നിങ്ങൾ ചേരാൻ ശ്രമിക്കുന്ന നെറ്റ്‌വർക്കിൽ സുരക്ഷാ പ്രശ്‌നങ്ങളുണ്ടായിരിക്കാം."</string>
+</resources>

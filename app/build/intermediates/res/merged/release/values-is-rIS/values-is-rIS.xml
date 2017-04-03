@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="917235635415966620" name="action_bar_label">"Skrá inn á net"</string>
+    <string msgid="4577366536956516683" name="action_do_not_use_network">"Ekki nota þetta net"</string>
+    <string msgid="6076184727448466030" name="action_use_network">"Nota þetta net óbreytt"</string>
+    <string msgid="5934709770924185752" name="app_name">"CaptivePortalLogin"</string>
+    <string msgid="6492718244923937110" name="ssl_error_continue">"Halda samt áfram í vafra"</string>
+    <string msgid="647898534624078900" name="ssl_error_example">"Til dæmis getur verið að innskráningarsíðan tilheyri ekki fyrirtækinu sem birtist."</string>
+    <string msgid="6653188881418638872" name="ssl_error_warning">"Öryggisvandamál eru á netinu sem þú ert að reyna að tengjast."</string>
+</resources>

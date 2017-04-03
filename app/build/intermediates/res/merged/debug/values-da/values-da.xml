@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="917235635415966620" name="action_bar_label">"Log ind på netværk"</string>
+    <string msgid="4577366536956516683" name="action_do_not_use_network">"Brug ikke dette netværk"</string>
+    <string msgid="6076184727448466030" name="action_use_network">"Brug dette netværk, som det er"</string>
+    <string msgid="5934709770924185752" name="app_name">"Login til captive portal"</string>
+    <string msgid="6492718244923937110" name="ssl_error_continue">"Fortsæt alligevel via browseren"</string>
+    <string msgid="647898534624078900" name="ssl_error_example">"Det er f.eks. ikke sikkert, at loginsiden tilhører den anførte organisation."</string>
+    <string msgid="6653188881418638872" name="ssl_error_warning">"Der er sikkerhedsproblemer på det netværk, du forsøger at logge ind på."</string>
+</resources>

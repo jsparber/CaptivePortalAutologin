@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_bar_label">Configure Autologin</string>
+    <string name="action_do_not_use_network">Do not use this network</string>
+    <string name="action_remove_saved_logins" translatable="false">Remove saved logins</string>
+    <string name="action_use_network">Use this network as is</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="ssl_error_continue">Continue anyway via browser</string>
+    <string name="ssl_error_example">For example, the login page may not belong to the organization shown.</string>
+    <string name="ssl_error_warning">The network you’re trying to join has security issues.</string>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Material.Settings">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <!-- Setting's theme's accent color makes ProgressBar useless, reset back. -->
+        <item name="android:colorAccent">@*android:color/material_deep_teal_500</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="917235635415966620" name="action_bar_label">"登录到网络"</string>
+    <string msgid="4577366536956516683" name="action_do_not_use_network">"不要使用此网络"</string>
+    <string msgid="6076184727448466030" name="action_use_network">"直接使用此网络"</string>
+    <string msgid="5934709770924185752" name="app_name">"CaptivePortalLogin"</string>
+    <string msgid="6492718244923937110" name="ssl_error_continue">"仍然通过浏览器继续操作"</string>
+    <string msgid="647898534624078900" name="ssl_error_example">"例如，登录页面可能并不属于页面上显示的单位。"</string>
+    <string msgid="6653188881418638872" name="ssl_error_warning">"您尝试加入的网络存在安全问题。"</string>
+</resources>
