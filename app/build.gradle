@@ -8,6 +8,8 @@ android {
         applicationId "com.juliansparber.captiveportallogin"
             minSdkVersion 23
             targetSdkVersion 25
+            versionCode 1
+            versionName "0.1"
     }
 
     buildTypes {
