@@ -300,7 +300,6 @@ public class CaptivePortalLoginActivity extends Activity {
     private void useNetwork() {
         Method method = null;
         try {
-            //method = mCaptivePortal.getClass().getMethod("useNetwork", CaptivePortal.class, boolean.class);
             method = mCaptivePortal.getClass().getMethod("useNetwork", null);
             method.invoke(mCaptivePortal);
         } catch (NoSuchMethodException e) {
@@ -315,7 +314,6 @@ public class CaptivePortalLoginActivity extends Activity {
         Method method = null;
         int res[] = new int[0];
         try {
-            //method = mCaptivePortal.getClass().getMethod("useNetwork", CaptivePortal.class, boolean.class);
             method = networkCapabilities.getClass().getMethod("getTransportTypes", null);
             res = (int[]) method.invoke(networkCapabilities);
         } catch (NoSuchMethodException e) {
@@ -444,7 +442,7 @@ public class CaptivePortalLoginActivity extends Activity {
             if (mPagesLoaded == 0) return;
             // For internally generated pages, leave URL bar listing prior URL as this is the URL
             // the page refers to.
-            if (!url.startsWith(INTERNAL_ASSETS)) {
+            if (!url.startsWith(INTERNAL_ASSETS) && !url.startsWith("http://127.0.0.1"))  {
                 final TextView myUrlBar = (TextView) findViewById(R.id.url_bar);
                 myUrlBar.setText(url);
             }
@@ -464,12 +462,15 @@ public class CaptivePortalLoginActivity extends Activity {
             } else if (mPagesLoaded == 2) {
                 // Prevent going back to empty first page.
                 view.clearHistory();
-                String code = "var form = document.getElementsByTagName('form');" +
-                        "if (form.length != 1) { alert('Captive portal not supported!'); }" +
+            }
+            String code = "var form = document.getElementsByTagName('form');" +
+                    //"alert(document.baseURI);" +
+                        "if (form.length === 0) { }" +
                         "else {" +
-                        "var action = escape(form[0].action);" +
-                        "form[0].action = 'http://127.0.0.1:8765?android-original-action='+action;" +
-                        "}";
+                        "for (var i = 0; i < form.length; i++) {" +
+                        "var action = escape(form[i].action);" +
+                        "form[i].action = 'http://127.0.0.1:8765?android-original-action='+action;" +
+                        "}}";
                 //Add my password and username
                 /*String code = "var form = document.getElementsByTagName('form')[0];" +
                 "form.user.value = 'u.name';" +
@@ -478,7 +479,6 @@ public class CaptivePortalLoginActivity extends Activity {
                 "form.auth_pass.value = 'password';";
                 */
                 view.loadUrl("javascript:(function() {" + code +  "})()");
-            }
             testForCaptivePortal(true);
         }
 

@@ -73,7 +73,8 @@ public class HttpServer extends NanoHTTPD {
 
         if (destURL.equals("")) {
             try {
-                destURL = (splitQuery(session.getHeaders().get("referer")).get("android-original-action")) + session.getUri();
+                URL tmpUrl = new URL(splitQuery(session.getHeaders().get("referer")).get("android-original-action"));
+                destURL = tmpUrl.getProtocol() + "://" + tmpUrl.getHost() + session.getUri();
             } catch (UnsupportedEncodingException e) {
                 e.printStackTrace();
             } catch (MalformedURLException e) {
@@ -185,7 +186,7 @@ public class HttpServer extends NanoHTTPD {
             }
         }
         String path = url.getFile().substring(0, url.getFile().lastIndexOf('/'));
-        String base = url.getProtocol() + "://" + url.getHost() + path;
+        String base = url.getProtocol() + "://" + url.getHost();
 
         response = absPath(response, base);
         Response.IStatus status = Response.Status.lookup(conn.getResponseCode());
@@ -194,7 +195,8 @@ public class HttpServer extends NanoHTTPD {
 
     private String absPath(String input, String baseUrl) {
         Document doc = Jsoup.parse(input);
-        doc.getAllElements();
+        //doc.getAllElements();
+        //doc.head().prepend("<base href=" + baseUrl +"> </base>");
         Elements link = doc.select("link");
         link.attr("href", baseUrl + "/" + link.attr("href"));
 
