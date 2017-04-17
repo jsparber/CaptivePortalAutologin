@@ -5,10 +5,10 @@ It works by simply replacing the the action URL from the login form on the web p
 Contribution
 =============
 
-If somebody knows a better way to save the login procedure (without letting the web page exciting java code), I would love your
+If somebody knows a better way to save the login procedure (without letting the web page executing java code), I would love your
 contribution.
 
-Or any other contribution is highly appreciated....
+Or any other contribution is highly appreciated.
 
 
 
